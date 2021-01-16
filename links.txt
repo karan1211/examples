@@ -1,0 +1,2 @@
+Follow this for guideline on this example demo:
+https://docs.confluent.io/platform/current/tutorials/examples/ccloud/docs/beginner-cloud.html
